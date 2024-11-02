@@ -1,7 +1,7 @@
 # Backup Aliucord Fixed / Slash
 
 **Este backup contém todos os plugins que utilizo, totalizando 56 plugins.**
-- [Download Aqui](https://cdn.discordapp.com/attachments/1005673154355666996/1302389097368784956/config_aliucord.zip?ex=6727efde&is=67269e5e&hm=0c96cd7bec29a239eb1f85edf54f70db968281b4fc4c71cecefb9b93477e9d3a&)
+- [Download Aqui](https://cdn.discordapp.com/attachments/1005673154355666996/1302416357169827901/Config_Fla.rar?ex=67280941&is=6726b7c1&hm=fffa3eccb351ec2676d8d61d96c08eaf89f34b57d9c5e6cf44ca6535314480d5&)
 
 ## Siga os Passos para Ativar o /Slashcommands
 
